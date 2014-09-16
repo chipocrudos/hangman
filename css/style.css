@@ -1,0 +1,98 @@
+@charset "utf-8";
+/*Documento CSS */
+
+html {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	width: 280px;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+header {
+	min-width: 100%;
+}
+
+.row {
+
+	width: 90%;
+	min-height: 90%;
+	margin-top: 10px;
+}
+
+#block-word {
+	min-width: 280px;
+	width: 100%;
+	max-width: 640px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+#block-canvas, #block-letters {
+	float: left;
+	width: 280px;
+	border: 1px #055D8B solid;
+	border-radius: 5px 5px 5px 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	padding: 10px 10px 10px 10px;
+	margin-top: 5px;
+	margin-left: 3px;
+	text-align: center;
+}
+
+#block-canvas {
+	height:  200px;
+}
+
+.letter {
+	float: left;
+	padding-top 5px;
+  	margin: 3px 3px auto;
+  	background: #3B61FF;
+  	color: #fff;
+	border: 1px #055D8B solid;
+	border-radius: 2px 2px 2px 2px;
+	-moz-border-radius: 2px 2px 2px 2px;
+	-webkit-border-radius: 2px 2px 2px 2px;
+}
+
+.letter:hover {
+	background: #fff;
+	color: #3B61FF;
+}
+
+.letter:active {
+	border: 1px #FB0C33 solid;
+	color: #3B61FF;
+}
+
+.letter:disabled {
+	color: #FB0C33;
+}
+
+#restartbutton {
+	padding-top 5px;
+  	background: #9E9E9E;
+  	color: #fff;
+	border: 1px #9E9E9E solid;
+	border-radius: 2px 2px 2px 2px;
+	-moz-border-radius: 2px 2px 2px 2px;
+	-webkit-border-radius: 2px 2px 2px 2px;
+
+}
+
+#restartbutton:hover {
+  	background: #fff;
+  	color: #9E9E9E;
+
+}
+
+#restartbutton:active {
+  	background: #3B61FF;
+  	color: #fff;
+  	border: 1px #3B61FF solid;
+}

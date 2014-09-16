@@ -1,0 +1,18 @@
+{
+    "name": "Juego del ahorcado",
+    "description": "Juego para para descubrir palabras",
+    "icons": {
+        "16": "/img/icon-16.png",
+        "32": "/img/icon-32.png",
+        "48": "/img/icon-48.png",
+    	"64": "/img/icon-64.png",
+    	"128": "/img/icon-128.png"
+    },
+    "developer": {
+    	"name": "Guillermo Moguel Mandujano",
+    	"url": "http://github.com/chipocrudos"
+    },
+    "launch_path": "/index.html",
+    "default_locale": "es",
+    "orientation": "portrait"
+}
