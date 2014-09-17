@@ -1,7 +1,7 @@
 # Juego del ahocado
 
 
-Encuentra palabra o la horca.
+Descubre la palabra o la horca.
 
 	* Palabras aleatorias
 	* 506512 palabras en el diccionario
@@ -17,5 +17,5 @@ Navegador web con soporte canvas o puedes instalarlo en tu smart phone con Firef
 
 * Guillermo Moguel Mandujano [G+](https://www.google.com/+GuillermoMoguel) [Tw](https://twitter.com/chipocrudos)
 
-### Inspirado en los cursos
+### Basado en los cursos
 [mejorando.la](https://cursos.mejorando.la/programacion-basica/) y [devcode.la](http://devcode.la/firefoxos/)
