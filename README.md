@@ -1,4 +1,4 @@
-# Juego del ahocado
+# Juego del ahorcado
 
 
 Descubre la palabra o la horca.
